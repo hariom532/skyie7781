@@ -1,2 +1,6 @@
-# skyie7781
-1st Repository
+JustTrying 
+This Is My First Repository 
+<br>
+HII! 
+<br>
+I AM HariOm Yadav 
